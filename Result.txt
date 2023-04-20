@@ -1,0 +1,10 @@
+Kết qủa đạt được:
+- Xây dựng mô hình hệ thống tự động ao tôm trên nền tảng truyền thông Lora
+- Thiết kế mạng lưới theo nguyên lý "Node to Node"
+- Giám sát và điều khiển thông qua Web Server, App Mobile và màn hình HMI
+- Cảnh báo vượt ngưỡng thông qua điện thoại, tin nhắn SMS, App Mobile và Email
+- Thiết lập đóng ngắt thiết bị theo thời gian thực
+- Tốc độ cập nhật dữ liệu cảm biến nhanh, điểu khiển tải tức thì
+- Đảm bảo hệ thống chạy tốt và hoạt động ổn định
+Video hoạt động của hệ thống: https://drive.google.com/file/d/1QyM-CPSkU6uCMFG4FqzpLnagzSp_PvDm/view?usp=sharing
+
